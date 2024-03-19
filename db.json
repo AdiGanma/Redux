@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Budi Kakaroto",
+      "email": "budi@mail.com",
+      "password": "Admin123"
+    },
+    {
+      "id": 2,
+      "name": "Joko Harino",
+      "email": "joko@mail.com",
+      "password": "Admin123"
+    },
+    {
+      "name": "ujang codot",
+      "email": "ujangcodot@mail.com",
+      "password": "Admin123@",
+      "id": 3
+    }
+  ]
+}
